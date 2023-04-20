@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B1128DEF1EC37062007C58C1 /* UranusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1128DEE1EC37062007C58C1 /* UranusViewController.swift */; };
+		B1128DF11EC371B4007C58C1 /* MarsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1128DF01EC371B4007C58C1 /* MarsViewController.swift */; };
+		B1128DF31EC371FA007C58C1 /* TheEarthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1128DF21EC371FA007C58C1 /* TheEarthViewController.swift */; };
+		B1128DF51EC37274007C58C1 /* JupiterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1128DF41EC37274007C58C1 /* JupiterViewController.swift */; };
+		B1128DF71EC372C6007C58C1 /* SaturnViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1128DF61EC372C6007C58C1 /* SaturnViewController.swift */; };
+		B1128DF91EC372EF007C58C1 /* TheSunViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1128DF81EC372EF007C58C1 /* TheSunViewController.swift */; };
+		B1128DFB1EC37380007C58C1 /* NeptuneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1128DFA1EC37380007C58C1 /* NeptuneViewController.swift */; };
+		B1128DFD1EC3739D007C58C1 /* TheMoonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1128DFC1EC3739D007C58C1 /* TheMoonViewController.swift */; };
+		B1128DFF1EC374F6007C58C1 /* VenusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1128DFE1EC374F6007C58C1 /* VenusViewController.swift */; };
+		B1128E011EC3752A007C58C1 /* MercuryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1128E001EC3752A007C58C1 /* MercuryViewController.swift */; };
+		B159D5001EE41D9400176077 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = B159D4FF1EE41D9400176077 /* File.swift */; };
+		B159D5021EE420B500176077 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B159D5011EE420B500176077 /* WebViewController.swift */; };
 		B1AF00011EBB4DB2005664E6 /* The_UniverseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1AF00001EBB4DB2005664E6 /* The_UniverseTests.swift */; };
 		B1AF000C1EBB4DB2005664E6 /* The_UniverseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1AF000B1EBB4DB2005664E6 /* The_UniverseUITests.swift */; };
 		B1AFFFEC1EBB4DB1005664E6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1AFFFEB1EBB4DB1005664E6 /* AppDelegate.swift */; };
@@ -34,6 +46,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B1128DEE1EC37062007C58C1 /* UranusViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UranusViewController.swift; sourceTree = "<group>"; };
+		B1128DF01EC371B4007C58C1 /* MarsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MarsViewController.swift; sourceTree = "<group>"; };
+		B1128DF21EC371FA007C58C1 /* TheEarthViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TheEarthViewController.swift; sourceTree = "<group>"; };
+		B1128DF41EC37274007C58C1 /* JupiterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JupiterViewController.swift; sourceTree = "<group>"; };
+		B1128DF61EC372C6007C58C1 /* SaturnViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SaturnViewController.swift; sourceTree = "<group>"; };
+		B1128DF81EC372EF007C58C1 /* TheSunViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TheSunViewController.swift; sourceTree = "<group>"; };
+		B1128DFA1EC37380007C58C1 /* NeptuneViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NeptuneViewController.swift; sourceTree = "<group>"; };
+		B1128DFC1EC3739D007C58C1 /* TheMoonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TheMoonViewController.swift; sourceTree = "<group>"; };
+		B1128DFE1EC374F6007C58C1 /* VenusViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VenusViewController.swift; sourceTree = "<group>"; };
+		B1128E001EC3752A007C58C1 /* MercuryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MercuryViewController.swift; sourceTree = "<group>"; };
+		B159D4FF1EE41D9400176077 /* File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		B159D5011EE420B500176077 /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 		B1AF00001EBB4DB2005664E6 /* The_UniverseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = The_UniverseTests.swift; sourceTree = "<group>"; };
 		B1AF00021EBB4DB2005664E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B1AF00071EBB4DB2005664E6 /* The UniverseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "The UniverseUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -107,8 +131,20 @@
 			isa = PBXGroup;
 			children = (
 				B1AFFFEB1EBB4DB1005664E6 /* AppDelegate.swift */,
+				B159D4FF1EE41D9400176077 /* File.swift */,
+				B159D5011EE420B500176077 /* WebViewController.swift */,
 				B1AFFFED1EBB4DB1005664E6 /* ViewController.swift */,
 				B1AFFFEF1EBB4DB1005664E6 /* Main.storyboard */,
+				B1128DEE1EC37062007C58C1 /* UranusViewController.swift */,
+				B1128DF01EC371B4007C58C1 /* MarsViewController.swift */,
+				B1128DF21EC371FA007C58C1 /* TheEarthViewController.swift */,
+				B1128DF61EC372C6007C58C1 /* SaturnViewController.swift */,
+				B1128DF81EC372EF007C58C1 /* TheSunViewController.swift */,
+				B1128DFA1EC37380007C58C1 /* NeptuneViewController.swift */,
+				B1128DFC1EC3739D007C58C1 /* TheMoonViewController.swift */,
+				B1128DFE1EC374F6007C58C1 /* VenusViewController.swift */,
+				B1128E001EC3752A007C58C1 /* MercuryViewController.swift */,
+				B1128DF41EC37274007C58C1 /* JupiterViewController.swift */,
 				B1AFFFF21EBB4DB1005664E6 /* Assets.xcassets */,
 				B1AFFFF41EBB4DB1005664E6 /* LaunchScreen.storyboard */,
 				B1AFFFF71EBB4DB1005664E6 /* Info.plist */,
@@ -270,8 +306,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1128DF71EC372C6007C58C1 /* SaturnViewController.swift in Sources */,
+				B1128DF51EC37274007C58C1 /* JupiterViewController.swift in Sources */,
+				B1128DFF1EC374F6007C58C1 /* VenusViewController.swift in Sources */,
 				B1AFFFEE1EBB4DB1005664E6 /* ViewController.swift in Sources */,
+				B1128E011EC3752A007C58C1 /* MercuryViewController.swift in Sources */,
+				B1128DFB1EC37380007C58C1 /* NeptuneViewController.swift in Sources */,
+				B1128DF91EC372EF007C58C1 /* TheSunViewController.swift in Sources */,
+				B1128DF11EC371B4007C58C1 /* MarsViewController.swift in Sources */,
+				B159D5001EE41D9400176077 /* File.swift in Sources */,
+				B1128DF31EC371FA007C58C1 /* TheEarthViewController.swift in Sources */,
+				B1128DFD1EC3739D007C58C1 /* TheMoonViewController.swift in Sources */,
 				B1AFFFEC1EBB4DB1005664E6 /* AppDelegate.swift in Sources */,
+				B159D5021EE420B500176077 /* WebViewController.swift in Sources */,
+				B1128DEF1EC37062007C58C1 /* UranusViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -418,7 +466,7 @@
 				DEVELOPMENT_TEAM = 3RPU8N4B3R;
 				INFOPLIST_FILE = "The Universe/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Com.example.The-Universe";
+				PRODUCT_BUNDLE_IDENTIFIER = "Com.example.The-Universe.Single-Paged";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -431,7 +479,7 @@
 				DEVELOPMENT_TEAM = 3RPU8N4B3R;
 				INFOPLIST_FILE = "The Universe/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Com.example.The-Universe";
+				PRODUCT_BUNDLE_IDENTIFIER = "Com.example.The-Universe.Single-Paged";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -505,6 +553,7 @@
 				B1AF00121EBB4DB2005664E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B1AF00131EBB4DB2005664E6 /* Build configuration list for PBXNativeTarget "The UniverseTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +562,7 @@
 				B1AF00151EBB4DB2005664E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B1AF00161EBB4DB2005664E6 /* Build configuration list for PBXNativeTarget "The UniverseUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +571,7 @@
 				B1AF00181EBB4DB2005664E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B1AFFFE31EBB4DB1005664E6 /* Build configuration list for PBXProject "The Universe" */ = {
 			isa = XCConfigurationList;
